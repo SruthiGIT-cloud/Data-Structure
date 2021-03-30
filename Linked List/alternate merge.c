@@ -1,3 +1,4 @@
+//alternate merge the elements in linked list
 #include <stdio.h>
 #include<stdlib.h>
 int choice,d,n,n1,k=0;
