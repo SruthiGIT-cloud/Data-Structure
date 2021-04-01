@@ -1,4 +1,5 @@
-
+//sample input 1 2 3 4 5 
+//sample output 3
 #include <stdio.h>
 #include<stdlib.h>
 int choice,d,n,len;
