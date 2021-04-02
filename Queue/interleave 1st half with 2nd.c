@@ -1,3 +1,6 @@
+//sample input:1 2 3 4 5 6 7 8
+//sample output:1 5 2 6 3 7 4 8
+
 #include<stdio.h>
 int r=-1,f=-1;
 int q[100];
